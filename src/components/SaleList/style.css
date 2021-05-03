@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+.saleList{
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+    justify-content: center;
+    height: 330px;
+}
+
+.containerItens{
+    display: flex;
+    column-gap: 14px;
+    
+}
+    
+.container{
+    display: flex;
+    flex-direction: column;
+    
+    margin: 0 auto;
+    margin-top: 80px;
+    border: 2px dashed #3ea2d3;
+    padding: 30px;
+    border-radius: 30px;
+   
+}
+h2{
+    font-size: 34px;
+    margin: 0;
+}

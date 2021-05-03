@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+.containerProduct{
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+
+}
